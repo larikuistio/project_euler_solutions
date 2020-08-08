@@ -1,3 +1,6 @@
+# Project Euler Problem 1
+#https://projecteuler.net/problem=1
+
 defmodule Problem1 do
     def isMultiple(n) do
         cond do
